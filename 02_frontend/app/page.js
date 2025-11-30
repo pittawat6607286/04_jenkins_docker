@@ -118,7 +118,7 @@ export default function Page() {
       </section>
 
       <footer className="max-w-6xl mx-auto mt-10 text-center text-gray-500 text-sm">
-        <span>จากอาหารร้านเรามอบความสุขให้</span>
+        <span>จากอาหารร้านเรามอบความสุขที่สุดให้</span>
       </footer>
     </main>
   )
